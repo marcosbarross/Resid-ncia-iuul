@@ -1,0 +1,8 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\bin\Debug\EX7.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\bin\Debug\EX7.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\bin\Debug\EX7.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\obj\Debug\EX7.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\obj\Debug\EX7.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\obj\Debug\EX7.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\obj\Debug\EX7.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\EX7\EX7\obj\Debug\EX7.pdb
