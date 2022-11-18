@@ -35,18 +35,8 @@ namespace Lista2
     public class clienteCPF
     {
         long[] cpfsInvalidos = new long[]
-        {
-            00000000000,
-            11111111111,
-            22222222222,
-            33333333333,
-            44444444444,
-            55555555555,
-            66666666666,
-            77777777777,
-            88888888888,
-            99999999999
-        };
+        { 00000000000, 11111111111, 22222222222, 33333333333, 44444444444, 55555555555, 66666666666, 77777777777, 88888888888, 99999999999};
+
         private long CPF;
         public long cpf
         {
@@ -57,9 +47,10 @@ namespace Lista2
 
             set
             {
-                if (value.ToString().Length == 11)
+                if (value.ToString().Length == 11) //Garante que a entrada terá 11 dígitos
                 {
-                    for (int i = 0; i < cpfsInvalidos.Length; i++)
+             
+                    for (int i = 0; i < cpfsInvalidos.Length; i++) //Impossibilita a entrada de um cpf com todos os dígitos iguais e utiliza o array "cpfsInvalidos" para fazer a validação
                     {
                         if (cpfsInvalidos[i] == value)
                         {
@@ -67,14 +58,35 @@ namespace Lista2
                         }
                         else
                         {
+                            String cpfString = value.ToString(); //transforma o value da propriedade em String para se utilizar do método Substring()
+                            int[] cortesCpf = new int[9] ; // cria array para armazenar as slices da variável cpfcrop e testar dentro do For
+
+                                for (int j = 0; j <= 9; j++)
+                                {
+                                    String cpfCrop = cpfString.Substring(j, 1); //cria as slices algarismo a algarismo
+
+                                    int intCpfCrop = int.Parse(cpfCrop);
+
+                                    cortesCpf[j] = intCpfCrop; //transforma de volta o a variável cpfCrop em Int para entrar no Array
+
+
+
+                                    Console.WriteLine(cortesCpf[j]);
+                                }
+                            }
+           
+                            
                             this.CPF = value;
+
                         }
                     }
-                }
                 else
                 {
-                    throw new IndexOutOfRangeException("O cpf precisa ter 11 números");
+                        throw new IndexOutOfRangeException("O cpf precisa ter 11 números");
                 }
+
+                }
+    
 
             }
         }
@@ -156,8 +168,9 @@ namespace Lista2
 
             var c = new clienteCPF();
             c.cpf = 13634164484;
-            Console.WriteLine(c.cpf);
+            
 
+            
 
 
         }
