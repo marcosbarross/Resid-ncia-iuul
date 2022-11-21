@@ -97,8 +97,8 @@ namespace Lista2
                         }
 
 
-                        resDig = digito1 % 11;
-                        if (restosValidos.Contains(resDig))
+                        
+                        if (restosValidos.Contains(digito1 % 11))
                         {
                             digitoJ = 11 - (digito1 % 11);
                         }
@@ -150,6 +150,7 @@ namespace Lista2
 public class clienteNascimento
 {
     public DateTime dataNascimento
+
     {
         get;
         set;
@@ -188,10 +189,31 @@ public class clienteRenda
 
 public class clienteEstado
 {
-    public char estadoCivil { get; set; }
+    string[] estadosValidos = new string[]
+        { "C", "c", "V", "v", "D", "d"};
+    public char ESTADOCIVIL;
+    public char estadoCivil {
+        get
+        {
+            return ESTADOCIVIL;
+        }
+        set
+        {
+            if (estadosValidos.Contains(value.ToString()){
+                estadoCivil = value;
+            }
+            else
+            {
+                throw Exception("estado civil inválido");
+            }
+        } 
+    }
+}
 
+public class clienteDependentes
+{
     public int DEPENDENTES;
-    public int dependentes
+    public int dependentes  
     {
 
         get
@@ -212,17 +234,12 @@ public class clienteEstado
         }
 
     }
-
 }
 
 internal class Program
 {
     static void Main(string[] args)
     {
-
-        var c = new clienteCPF();
-        c.cpf = 13634164484;
-
 
 
 
