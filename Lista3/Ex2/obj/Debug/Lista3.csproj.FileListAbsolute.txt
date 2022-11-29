@@ -1,0 +1,8 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\obj\Debug\Lista3.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\obj\Debug\Lista3.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\obj\Debug\Lista3.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\bin\Debug\Lista3.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\bin\Debug\Lista3.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\bin\Debug\Lista3.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\obj\Debug\Lista3.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\Lista3\obj\Debug\Lista3.pdb

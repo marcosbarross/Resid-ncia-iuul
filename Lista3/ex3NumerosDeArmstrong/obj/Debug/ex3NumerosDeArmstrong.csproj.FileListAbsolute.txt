@@ -1,0 +1,8 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\bin\Debug\ex3NumerosDeArmstrong.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\bin\Debug\ex3NumerosDeArmstrong.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\bin\Debug\ex3NumerosDeArmstrong.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\obj\Debug\ex3NumerosDeArmstrong.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\obj\Debug\ex3NumerosDeArmstrong.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\obj\Debug\ex3NumerosDeArmstrong.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\obj\Debug\ex3NumerosDeArmstrong.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\ex3NumerosDeArmstrong\obj\Debug\ex3NumerosDeArmstrong.pdb
