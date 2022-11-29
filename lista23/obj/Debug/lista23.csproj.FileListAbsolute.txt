@@ -1,8 +1,0 @@
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\bin\Debug\lista23.exe.config
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\bin\Debug\lista23.exe
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\bin\Debug\lista23.pdb
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\obj\Debug\lista23.csproj.AssemblyReference.cache
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\obj\Debug\lista23.csproj.SuggestedBindingRedirects.cache
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\obj\Debug\lista23.csproj.CoreCompileInputs.cache
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\obj\Debug\lista23.exe
-C:\Users\marco\OneDrive\Documentos\GitHub\Resid-ncia-iuul\lista23\obj\Debug\lista23.pdb
