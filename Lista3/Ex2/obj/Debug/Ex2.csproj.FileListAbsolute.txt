@@ -1,0 +1,8 @@
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\bin\Debug\Lista3.exe.config
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\bin\Debug\Lista3.exe
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\bin\Debug\Lista3.pdb
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\obj\Debug\Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\obj\Debug\Lista3.exe
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Lista3\Ex2\obj\Debug\Lista3.pdb

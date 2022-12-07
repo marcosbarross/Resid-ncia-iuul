@@ -1,0 +1,8 @@
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\bin\Debug\Ex4.exe
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\bin\Debug\Ex4.pdb
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\obj\Debug\Ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\obj\Debug\Ex4.exe
+C:\Users\marco\Desktop\Residencia\Resid-ncia-iuul\Ex4\obj\Debug\Ex4.pdb
